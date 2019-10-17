@@ -36,28 +36,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EnsoulSharp.Sandbox">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\EnsoulSharp.Sandbox.dll</HintPath>
-    </Reference>
     <Reference Include="EnsoulSharp.SDK">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
+      <HintPath>D:\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
     </Reference>
     <Reference Include="EnsoulSharp.Wrapper">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\SharpDX.dll</HintPath>
+      <HintPath>D:\EnsoulSharp\System\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9">
-      <HintPath>..\..\..\Desktop\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>D:\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Drawing.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

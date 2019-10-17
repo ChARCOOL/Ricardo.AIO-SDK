@@ -1,18 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Reflection;
 using System.Security.Permissions;
+using System.Text;
+using System.Threading.Tasks;
 using EnsoulSharp.SDK;
 using Ricardo.AIO.Properties;
 
 namespace Ricardo.AIO
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             GameEvent.OnGameLoad += OnGameLoad;
         }
-
         [PermissionSet(SecurityAction.Assert, Unrestricted = true)]
         private static void OnGameLoad()
         {
@@ -27,7 +30,10 @@ namespace Ricardo.AIO
                 var myType = a.GetType(namespacePlusClass);
                 var methon = myType.GetMethod("Main", BindingFlags.Public | BindingFlags.Static);
 
-                if (methon != null) methon.Invoke(null, null);
+                if (methon != null)
+                {
+                    methon.Invoke(null, null);
+                }
             }
             catch (Exception ex)
             {
