@@ -6,4 +6,4 @@ Supported Champions: Hecarim, Vladimir, Brand, Jayce, Vayne, Illaoi, Kindred, Ka
 
 Included Badao Actions Limiter !PLEASE DON'T USE IT WITH MY SCRIPT ITS ALREADY INCLUDED!
 
-IT NEEDS AUTH
+IT NEEDS AUTH!
