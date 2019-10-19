@@ -1,5 +1,5 @@
 Thanks to xdreamms for helping me!
 
-Supported Champions: Hecarim, Vladimir, Brand, Jayce, Vayne, Illaoi, Kindred, Kassadin, Rengar, Riven, Taliyah, Graves, Kalista, Zyra, Lee Sin.
+Supported Champions: Brand, Graves, Hecarim, Illaoi, Jayce, Kalista, Kassadin, Kindred, LeeSin, Rengar, Riven, Taliyah, Vayne, Vladimir, Zed, Zyra.
 
 BTW IT NEEDS AUTH :)
