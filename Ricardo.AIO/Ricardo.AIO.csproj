@@ -37,16 +37,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EnsoulSharp.SDK">
-      <HintPath>D:\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
+      <HintPath>..\..\..\Desktop\EnsoulSharp\System\EnsoulSharp.SDK.dll</HintPath>
     </Reference>
     <Reference Include="EnsoulSharp.Wrapper">
-      <HintPath>D:\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
+      <HintPath>..\..\..\Desktop\EnsoulSharp\System\EnsoulSharp.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>D:\EnsoulSharp\System\SharpDX.dll</HintPath>
+      <HintPath>..\..\..\Desktop\EnsoulSharp\System\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9">
-      <HintPath>D:\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>..\..\..\Desktop\EnsoulSharp\System\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
